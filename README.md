@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yuki.
-- 👀 I'm an independent data consultant helping companies of all sizes build efficient analytics and data solutions. 
+- 👀 I'm an independent data consultant, helping companies of all sizes build efficient analytics and data solutions. 
 - 🌱 I work on data engineering, warehousing, integrations, and analytics.  
 - 🎁 My toolbox: Python, SQL, dbt, Power BI, Azure Data Services, BigQuery, Databricks, Snowflake, Tableau, Sigma, Fivetran, etc.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yukikakegawa/)

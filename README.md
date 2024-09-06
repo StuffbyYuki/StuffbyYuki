@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuki.
 - 👀 I'm an independent data consultant, helping companies improve their data analytics infrastructure. 
-- 🌱 I work on data engineering, warehousing, analytics, and business intelligence.  
-- 🎁 My toolbox: Python, SQL, dbt, Power BI, Microsoft Data Platform, BigQuery, Databricks, Snowflake, Tableau, Sigma, Fivetran, etc.
+- 🌱 I work on data engineering, warehousing, analytics, and business intelligence.
+- 🐻‍❄️ Check out [my book on Python Polars](https://www.amazon.com/Polars-Cookbook-practical-transform-manipulate/dp/1805121154)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yukikakegawa/)
 - 🏠 Visit [my website](https://www.yukikakegawa.me/)
 - 🏢 My consulting company - [Orem Data, LLC](https://www.oremdata.com/)

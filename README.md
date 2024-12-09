@@ -5,7 +5,7 @@
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yukikakegawa/)
 - 🏠 Visit [my website](https://www.yukikakegawa.me/)
 - 🏢 My consulting company - [Orem Data, LLC](https://www.oremdata.com/)
-- ✉️ Subscribe to [my newsletter](https://theindependentinsight.substack.com/) about independent consulting
+- ✉️ Subscribe to my newsletters about [independent consulting](https://theindependentinsight.substack.com/) and [modern data tools ](https://thedatatoolbox.substack.com/)
 
 
 <!---
